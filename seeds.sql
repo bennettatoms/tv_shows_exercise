@@ -1,4 +1,4 @@
-# seeds.sql that inserts some of your favorite TV shows into the shows table.
+-- seeds.sql that inserts some of your favorite TV shows into the shows table.
 INSERT INTO shows (name, genre, rating, airing) VALUES
   ('Cheers', 'sitcom', 75, false),
   ('Six Feet Under', 'drama', 90, false),
